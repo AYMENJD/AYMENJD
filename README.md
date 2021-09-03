@@ -1,8 +1,8 @@
 # AYMEN Mohammed ![](https://komarev.com/ghpvc/?username=AYMENJD&color=blueviolet)
 OwO hello! its me AYMEN.
 ## About Me
-- I just start coding in 2019, i love that.
-- I love the sound of smashinh the keyborad just for "Hello world".
+- I just start coding in 2019, I love that.
+- I love the sound of smashing the keyborad just for "Hello world".
 - Also i love networking and cyberSecurity world.
 
 ### What i do
