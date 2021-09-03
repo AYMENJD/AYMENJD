@@ -30,9 +30,8 @@ OwO hello! its me AYMEN.
 <br/>
 
 ## Stats
-GitHub             |  WakaTime
-:-------------------------:|:-------------------------:
-[![](https://github-readme-stats.vercel.app/api?username=aymenjd&show_icons=true&count_private=true&theme=radical&cache_seconds=86400)](https://t.me/K6KKK) | [![](https://github-readme-stats.vercel.app/api/wakatime?username=AA)](https://t.me/K6KKK)
+[![](https://github-readme-stats.vercel.app/api?username=aymenjd&show_icons=true&count_private=true&theme=radical&cache_seconds=86400)](https://t.me/K6KKK)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=AA)](https://t.me/K6KKK)
 
 
 ## Ping me
