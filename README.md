@@ -17,10 +17,17 @@ OwO hello! its me AYMEN.
 - Nothing just high knowledge and making you smile.
 
 ## Stats
-[![](https://github-readme-stats.vercel.app/api?username=aymenjd&show_icons=true&count_private=true&theme=radical&cache_seconds=86400)](https://t.me/K6KKK)
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=AA)](https://t.me/K6KKK)
 
-
-[<img align="left" alt="Telegram" width="30px" src="https://telegram.org/img/t_logo.svg?1" />](https://t.me/K6KKK)
-[<img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />](https://twitter.com/LetMeCodeSafe)
+<div align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=aymenjd&show_icons=true&count_private=true&theme=radical&cache_seconds=86400' alt='Github stats' align='center' />
+</div>
+<br />
+<div align='center'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=AYMENJD&theme=dark&hide_border=true&date_format=M%20j[%2C%20Y]' alt='Github stats' align='center' />
+</div>
+<br />
+<div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=AA&layout=compact' alt='Languages over last 7 days' align='center' />
+</div>
+<br />
 
